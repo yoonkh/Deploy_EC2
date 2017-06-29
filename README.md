@@ -60,3 +60,10 @@ project_folder/
 }
 ```
 
+## runserver
+ 
+```
+# local developement
+python3 manage.py runserver --settings=config.settings.debug
+```
+
