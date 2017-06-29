@@ -11,7 +11,9 @@
 pip install -r requirements.txt
 ```
 
-## Create secret config file
+## Create secret config files
+
+### Project structure
 
 ```
 project_folder/
